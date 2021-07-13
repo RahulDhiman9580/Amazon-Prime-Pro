@@ -32,8 +32,11 @@ const styles = StyleSheet.create({
         justifyContent:'center',
     },
     backgroundVideo:{
-        flex:Platform.OS === 'ios' ? 0.81 : 0.5,
-        paddingHorizontal:vw(10),  
+        width:vw(width),
+        height:vw(width),
+        paddingHorizontal:vw(10),
+        alignItems:'center',
+        alignSelf:'center'  
     },
     back:{
         position:'absolute',

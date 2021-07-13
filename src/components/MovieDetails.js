@@ -379,7 +379,7 @@ export const MovieDetails = (props) =>{
      },
      posterHolder:{
          position:'absolute',
-         right:vw(width/3.2),
+         alignSelf:'center',
          top:vh(15)
      },
      poster:{
