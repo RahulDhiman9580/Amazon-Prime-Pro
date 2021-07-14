@@ -1,7 +1,11 @@
 # Amazon-Prime-Pro
 It's a "Amazon Prime Video" clone that has been made in react-native for practice purpose.
 
-#Wherever the OTP will be asked, ENTER VALID OTP AS : 958031
+#NOTE:
+# Valid OTP is 958031
+# The device orientation is set to PORTRAIT only.
+# In android devices “back button” is set to disabled, for going back you have to use the “back-arrow-button” provided inside the app.
+
 
 Hope you will enjoy the application :).
 
